@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Drums from './Drums';
+import Drums from './Drums.js';
 import audioObj from './AudioObj.js';
 
 const SoundName = function (props) {
